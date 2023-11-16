@@ -1,0 +1,9 @@
+.popup__form-submit-button_visible {
+    background-color: #000000;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.popup__form-submit-button_visible:hover {
+    opacity: 0.8;
+}

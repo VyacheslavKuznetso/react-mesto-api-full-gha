@@ -1,0 +1,19 @@
+.profile__info-block {
+    max-width: 336px;
+    margin-left: 30px;
+    font-family: 'Inter', sans-serif;
+}
+
+@media screen and (max-width: 730px) {
+    .profile__info-block {
+        margin: 0;
+        
+    }
+}
+
+@media screen and (max-width: 470px) {
+    .profile__info-block {
+        max-width: 100%;
+        
+    }
+}

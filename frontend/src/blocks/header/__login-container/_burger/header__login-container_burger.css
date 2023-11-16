@@ -1,0 +1,7 @@
+
+@media screen and (max-width: 768px) {
+    .header__login-container_burger {
+        display: none;
+    }
+}
+

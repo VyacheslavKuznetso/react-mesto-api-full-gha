@@ -1,0 +1,10 @@
+.element__number {
+    min-width: 10px;
+    height: 13px;
+    text-align: center;
+    align-self: center;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15.73px;
+    color: #000000;
+}

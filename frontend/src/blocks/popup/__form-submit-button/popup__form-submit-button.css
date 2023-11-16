@@ -1,0 +1,25 @@
+.popup__form-submit-button {
+    width: 358px;
+    padding: 0;
+    align-self: center;
+    min-height: 50px;
+    border-radius: 2px;
+    cursor: default;
+    margin-top: 48px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+
+
+@media screen and (max-width: 425px) {
+    .popup__form-submit-button {
+        font-size: 14px;
+        line-height: 17px;
+        width: 238px;
+        min-height: 48px;
+    }
+}

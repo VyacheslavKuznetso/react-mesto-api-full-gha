@@ -1,0 +1,16 @@
+.header__list_active{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    z-index: 0;
+}
+
+@media screen and (max-width: 768px){
+    .header__list_active {
+        flex-direction: column;
+        align-items: center;
+        align-self: center;
+        z-index: 0;
+    }
+}
+

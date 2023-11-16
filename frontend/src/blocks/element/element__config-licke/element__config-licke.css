@@ -1,0 +1,9 @@
+.element__config-licke {
+    height: 35px;
+    width: 22px;
+    margin-right: 15px;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

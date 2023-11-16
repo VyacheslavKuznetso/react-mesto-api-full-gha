@@ -1,0 +1,22 @@
+.container {
+    width: 27.96%;
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 46.60%;
+    }
+}
+
+
+@media screen and (max-width: 425px) {
+    .container {
+        width: 85%;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .container {
+        width: 90%;
+    }
+}

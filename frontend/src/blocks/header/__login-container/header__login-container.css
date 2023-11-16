@@ -1,0 +1,9 @@
+.header__login-container {
+    display: flex;
+}
+
+@media screen and (max-width: 400px) {
+    .header__login-container {
+        margin-right: 27px;
+    }
+}
