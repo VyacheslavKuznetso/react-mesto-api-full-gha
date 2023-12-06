@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.124.129
+IP-адрес 158.160.57.128
 
 Frontend https://rumesto.nomoredomainsmonster.ru
 
